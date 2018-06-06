@@ -4,7 +4,7 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2017
+Term: Fall 2017 
 
 + Project summary: In this project, we created a classification engine for images of dogs versus fried chicken versus blueberry muffins. ([Main.Rmd](doc/main.Rmd) and [Main.pdf](doc/main.pdf))
 
